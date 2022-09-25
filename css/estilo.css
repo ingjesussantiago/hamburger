@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    
+}
+
+.fuente1{
+    font-family: 'Luckiest Guy';
+}
+
+.hero{
+    background-image: url("../Assets/a7a1dc0004804778ac64cb26b8217c5c.jpeg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    opacity: .8;
+}
+
+.hero1{
+background-color: darkgoldenrod;
+}
+
